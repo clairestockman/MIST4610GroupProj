@@ -6,7 +6,7 @@ This project involves the development and population of a comprehensive relation
 ## Group Members
 ##### Nabeel Sadiq [@nabeelsadiq](https://github.com/Nabeel470)
 ##### Josh Libatique
-##### Anthony Lopez [anthonylopez](https://github.com/asl58391)
+##### Anthony Lopez [@anthonylopez](https://github.com/asl58391)
 ##### Ethan Payne
 ##### Claire Stockman [@clairestockman](https://github.com/clairestockman)
 ## Data Model
