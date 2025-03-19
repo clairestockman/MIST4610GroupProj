@@ -113,7 +113,7 @@ Query 9 Description: List the location ID, address, and total sales for each loc
 <img width="1089" alt="Screenshot 2025-03-18 at 9 06 53 PM" src="https://github.com/user-attachments/assets/cad8fd0a-0e80-434f-b875-14116a4bddf5" />
 
 
-Query 9 Justification: This query allows managers to see which locations are underperforming and investigate possible reasons. It also allows them to implement new training programs to boost performance and possibly offer promotions to get more profits. 
+Query 9 Justification: This query allows managers to see which locations are underperforming and investigate possible reasons. It also lets them know where they may want to implement new marketing techniques as a way to potentially bring in new customers. Additionally they may see what, if anything, the less successful locations have in common so that when they are planning to expand to a new location they know where not to look.
 
 
 
