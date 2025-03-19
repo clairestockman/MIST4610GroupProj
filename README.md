@@ -91,13 +91,13 @@ Query 5 Justification: This query allows managers to identify which product line
 
 Query 6 Description: lists the ID, first name, last name, and order count for customers who's average order count exceeds the average order count for customers. It joins the Orders table with the customers table to calculate the average, while using a having clause to filter out the customers below the average.
 
-query6
+<img width="834" alt="Screenshot 2025-03-18 at 9 22 51 PM" src="https://github.com/user-attachments/assets/e679952c-3863-4dbb-ae0d-e46ae8402a8b" />
 
 Query 6 Justification: allows the managers to highlight high volume customers. Having access to your important customers allows the store to engage and create lasting relationships with returning customers, while also being able to notice if there are patterns between frequent and infrequent customers.
 
 Query 7 Description: retrieves the customer ID, first name, last name, and prescription date for customers with a progressive prescription. The results are sorted in ascending order to display the oldest prescriptions first.
 
-q7 final
+<img width="831" alt="Screenshot 2025-03-18 at 9 23 31 PM" src="https://github.com/user-attachments/assets/b1d6ada1-879c-44c2-9248-59c6e6382103" />
 
 Query 7 Justification: This query allows the manager to keep track of the oldest given prescriptions for customers with progressive prescriptions. Because progressive prescriptions tend to change faster than bifocal or single vision prescriptions, being able to track the oldest progressive prescriptions allows managers to be weary of which prescriptions may need updating soon, allowing them to anticipate and reach out to customers with potentially changing prescriptions.
 
