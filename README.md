@@ -55,6 +55,10 @@ This data model captures the entire customer journey, from initial consultation 
 
 
 ## Queries
+
+<img width="437" alt="Screenshot 2025-03-18 at 11 10 44 PM" src="https://github.com/user-attachments/assets/49f9d213-3666-4df9-a324-b1da916427c0" />
+
+
 Query 1 Description: lists each customer who has placed more than one order and shows the total number of orders placed by each customer. The query combines the customer's first and last name for readability and orders the results by the number of orders.
 
 ![image](https://github.com/user-attachments/assets/53191766-ac22-450a-8903-f22d3ad9849b)
@@ -125,3 +129,6 @@ Query 10 Justification: Managers would benefit from this query because late ship
 
 
 ## Database Information
+Name of the database: ns_Sp25_21479_Group3
+
+Additional Information: Eac hquery listed above is maked in the database using stored provedures which can be called using the following format: CALL TP_Q1(); 
