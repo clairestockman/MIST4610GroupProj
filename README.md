@@ -101,7 +101,7 @@ Query 7 Description: retrieves the customer ID, first name, last name, and presc
 
 Query 7 Justification: This query allows the manager to keep track of the oldest given prescriptions for customers with progressive prescriptions. Because progressive prescriptions tend to change faster than bifocal or single vision prescriptions, being able to track the oldest progressive prescriptions allows managers to be weary of which prescriptions may need updating soon, allowing them to anticipate and reach out to customers with potentially changing prescriptions.
 
-Query 8 Description: List the employee ID, first and ast name along with the number of orders and total sales generated from Orders. It joins the Employees table with Customers and Orders and OrderDetails to calculate the total sales and count the number of orders and then is orders the results by Total Sales in Descending order.
+Query 8 Description: List the employee ID, first and last name along with the number of orders and total sales generated from Orders. It joins the Employees table with Customers and Orders and OrderDetails to calculate the total sales and count the number of orders and then is orders the results by Total Sales in Descending order.
 
 <img width="1405" alt="Screenshot 2025-03-18 at 8 49 49 PM" src="https://github.com/user-attachments/assets/cd5d30f2-ac80-408d-93fc-515cbb39b5ef" />
 
