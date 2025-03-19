@@ -89,19 +89,32 @@ Query 5 Description: lists each Product Line's brand name along with the total r
 
 Query 5 Justification: This query allows managers to identify which product lines contribute the most to total sales revenue. By knowing which brands perform well, managers can adjust inventory levels to stock more of high-performing product lines and negotiate better deals with suppliers.
 
-Query 6 Description: List the employee ID, first and ast name along with the number of orders and total sales generated from Orders. It joins the Employees table with Customers and Orders and OrderDetails to calculate the total sales and count the number of orders and then is orders the results by Total Sales in Descending order.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Query 8 Description: List the employee ID, first and ast name along with the number of orders and total sales generated from Orders. It joins the Employees table with Customers and Orders and OrderDetails to calculate the total sales and count the number of orders and then is orders the results by Total Sales in Descending order.
 
 <img width="1405" alt="Screenshot 2025-03-18 at 8 49 49 PM" src="https://github.com/user-attachments/assets/cd5d30f2-ac80-408d-93fc-515cbb39b5ef" />
 
-Query 6 Justification: This query allows managers to identify which employees were overperforming and underperforming. This would allow them to recognize and reward the employees that are doing well. It would also allow them to maybe give some additional training or guidance to employees that may not have as many sales. 
+Query 8 Justification: This query allows managers to identify which employees were overperforming and underperforming. This would allow them to recognize and reward the employees that are doing well. It would also allow them to maybe give some additional training or guidance to employees that may not have as many sales. 
 
 
-Query 7 Description: List the location ID, address, and total sales for each location that is performing below average. This joins the Orders table to the OrderDetails, Employees, and Locations tables and then calculates the average total sales from the OrderDetails table and only gives results of the Locations that have total sales below the average. The results are ordered by Total Sales in Ascending order.
+Query 9 Description: List the location ID, address, and total sales for each location that is performing below average. This joins the Orders table to the OrderDetails, Employees, and Locations tables and then calculates the average total sales from the OrderDetails table and only gives results of the Locations that have total sales below the average. The results are ordered by Total Sales in Ascending order.
 
 <img width="1089" alt="Screenshot 2025-03-18 at 9 06 53 PM" src="https://github.com/user-attachments/assets/cad8fd0a-0e80-434f-b875-14116a4bddf5" />
 
 
-Query 7 Justification: This query allows managers to see which locations are underperforming and investigate possible reasons. It also allows them to implement new training programs to boost performance and possibly offer promotions to get more profits. 
+Query 9 Justification: This query allows managers to see which locations are underperforming and investigate possible reasons. It also allows them to implement new training programs to boost performance and possibly offer promotions to get more profits. 
 
 
 
