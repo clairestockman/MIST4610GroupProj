@@ -131,4 +131,4 @@ Query 10 Justification: Managers would benefit from this query because late ship
 ## Database Information
 Name of the database: ns_Sp25_21479_Group3
 
-Additional Information: Eac hquery listed above is maked in the database using stored provedures which can be called using the following format: CALL TP_Q1(); 
+Additional Information: Each query listed above is maked in the database using stored provedures which can be called using the following format: CALL TP_Q1(); 
