@@ -115,6 +115,13 @@ Query 9 Description: List the location ID, address, and total sales for each loc
 
 Query 9 Justification: This query allows managers to see which locations are underperforming and investigate possible reasons. It also lets them know where they may want to implement new marketing techniques as a way to potentially bring in new customers. Additionally they may see what, if anything, the less successful locations have in common so that when they are planning to expand to a new location they know where not to look.
 
+Query 10 Description: list the date of the order and the customer's first and last name for orders that have not been shipped yet. This will join the Order and Customer table and only list out the Customer names and dates of orders that are pending or processing. It will then Order from least recent to most recent order date.
+
+<img width="885" alt="Screenshot 2025-03-18 at 10 26 01 PM" src="https://github.com/user-attachments/assets/de8a5699-865f-4640-99a5-4012d7b8c5cb" />
+
+Query 10 Justification: Managers would benefit from this query because late shipments can frustrate customers. Figuring out where there may be delays in shipments and having proactive communication with customers can be beneficial in maintaining good relationships with customers. Having the results ordered by least recent order date allows managers to see which customers have been waiting the longest and they can potentially offer compensation to the customers affected by this. It can also help managers potentially find recurring problems or logistical issues.
+
+
 
 
 ## Database Information
