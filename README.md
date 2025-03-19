@@ -4,7 +4,7 @@ This project involves the development and population of a comprehensive relation
 
 
 ## Group Members
-##### Nabeel Sadiq
+##### Nabeel Sadiq [@nabeelsadiq](https://github.com/Nabeel470)
 ##### Josh Libatique
 ##### Anthony Lopez
 ##### Ethan Payne
