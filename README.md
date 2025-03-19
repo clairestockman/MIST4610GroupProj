@@ -89,18 +89,17 @@ Query 5 Description: lists each Product Line's brand name along with the total r
 
 Query 5 Justification: This query allows managers to identify which product lines contribute the most to total sales revenue. By knowing which brands perform well, managers can adjust inventory levels to stock more of high-performing product lines and negotiate better deals with suppliers.
 
+Query 6 Description: lists the ID, first name, last name, and order count for customers who's average order count exceeds the average order count for customers. It joins the Orders table with the customers table to calculate the average, while using a having clause to filter out the customers below the average.
 
+query6
 
+Query 6 Justification: allows the managers to highlight high volume customers. Having access to your important customers allows the store to engage and create lasting relationships with returning customers, while also being able to notice if there are patterns between frequent and infrequent customers.
 
+Query 7 Description: retrieves the customer ID, first name, last name, and prescription date for customers with a progressive prescription. The results are sorted in ascending order to display the oldest prescriptions first.
 
+q7 final
 
-
-
-
-
-
-
-
+Query 7 Justification: This query allows the manager to keep track of the oldest given prescriptions for customers with progressive prescriptions. Because progressive prescriptions tend to change faster than bifocal or single vision prescriptions, being able to track the oldest progressive prescriptions allows managers to be weary of which prescriptions may need updating soon, allowing them to anticipate and reach out to customers with potentially changing prescriptions.
 
 Query 8 Description: List the employee ID, first and ast name along with the number of orders and total sales generated from Orders. It joins the Employees table with Customers and Orders and OrderDetails to calculate the total sales and count the number of orders and then is orders the results by Total Sales in Descending order.
 
