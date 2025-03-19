@@ -5,7 +5,7 @@ This project involves the development and population of a comprehensive relation
 
 ## Group Members
 ##### Nabeel Sadiq [@nabeelsadiq](https://github.com/Nabeel470)
-##### Josh Libatique
+##### Josh Libatique [@joshlibatique](https://github.com/jiyuukane)
 ##### Anthony Lopez [@anthonylopez](https://github.com/asl58391)
 ##### Ethan Payne
 ##### Claire Stockman [@clairestockman](https://github.com/clairestockman)
